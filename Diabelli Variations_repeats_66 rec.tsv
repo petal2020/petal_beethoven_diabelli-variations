@@ -1,0 +1,71 @@
+	Rep.	Schnabel 1937	Shure 1948	Horszowski 1951	Richter 1951	Arrau 1952	Baumgartner 1952	Katchen 1953	Serkin 1954	Backhaus 1955	Serkin 1957	Gulda 1957	Anda 1961	Judina 1961	Steuermann 1963	Brendel 1964	Barenboim 1965	Webersinke 1965	Kovacevich 1968	Sultan 1969	Gulda 1970	Demus 1971	Buchbinder 1973	Lefébure 1975	Brendel 1976	Rangell 1977	Rosen 1977	Nikolayeva 1979	Varsano 1980	Shure 1981	Arrau 1985	Oelbaum 1985	Pludermacher 1985	Sokolov 1985	Richter 1986	Brendel 1988	Boyle 1989	Hill 1990	Ugorski 1991	Vladar 1991	Kinderman 1994	Kontarsky 1996	Vieru 1996	Scherbakov 1997	Afanassiev 1998	Levinas 1998	Pollini 1998	Kurtág 1999	Anderszweski 2000	Battersby 2003_Steinway	Battersby 2003_Fortepiano	Korstick 2004	Piazzini 2007	Walsh 2007	Cooper 2008	Levin 2009	Staier 2010	Bjørkøe 2011	Orth 2011	Torbianelli 2011	Schiff 2012_Bechstein	Schiff 2012_Fortepiano	Yan 2012	Brautigam 2015	Levit 2015	Ahonen 2017	Cooper 2018
+Theme	1	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	~	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x
+	2	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	~	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x
+Var. 1	1	x	x	x	x	x	x	x	x	x	x	x	~	x	x	x	x	x	x	x	x	x	x	~	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x
+	2	x	x	x	x	x	x	x	x	x	x	x	~	x	x	x	x	x	x	x	x	x	x	~	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x
+Var. 2	[1]	x	x									x		x							x								x	x																																					
+	1	x	x	x	x	x	x	x	x	x	x	x	~	x	x	x	x	x	x	x	x	x	x	~	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x
+Var. 3	1	x	x	x	x	x	x	x	x	x	x	x	~	x	x	x	x	x	x	x	x	x	x	~	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x
+	2	x	x	x	x	x	x	x	x	x	x	x	~	x	x	x	x	x	x	x	x	x	x	~	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x
+Var. 4	1	x	x	x	x	x	x	x	x	x	x	x	~	x	x	x	x	x	x	x	x	x	x	~	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x
+	2	x	x	x	x	x	x	x	x	x	x	x	~	x	x	x	x	x	x	x	x	x	x	~	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x
+Var. 5	1	x	x	x	x	x	x	x	x	~	x	x	~	x	x	x	x	x	x	x	x	x	x	~	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x
+	2	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x
+Var. 6	1	x	x	x	x	x	x	x	x	x	x	x	~	x	x	x	x	x	x	x	x	x	x	~	x	~	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x
+	2	x	x	x	x	x	x	x	x	x	x	x	~	x	x	x	x	x	x	x	x	x	x	~	x	~	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x
+Var. 7	1	x	x	x	x	x	x	x	x	x	x	x	~	x	x	x	x	x	x	x	x	x	x	~	x	x	x	x	~	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x
+	2	x	x	x	x	x	x	x	x	x	x	x	~	x	x	x	x	x	x	x	x	x	x	~	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x
+Var. 8	1	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	~	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x
+	2	x	x	x	x	x	x	x	x	x	x	x	~	x	x	x	x	x	x	x	x	x	x	~	x	~	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x
+Var. 9	1	x	x	x	x	x	x	x	x	x		x	~	x	x	x	x	x	x	x	x	x	x	~	x	~	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x
+	2	x	x	x	x	x	x	x	x	x		x	~	x	x	x	x	x	x	x	x	x	x	~	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x
+Var. 10																																																																			
+Var. 11	[1]											x																																																							
+	1	x	x	x	x	x	x	x	x	x	x	x	~	x	x	x	x	x	x	x	x	x	x	~	x	~	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x
+Var. 12	[1]																															x																																			
+	1	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x
+Var. 13	1	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x
+	2	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x
+Var. 14	1	x	x	x	x	x	x	x	x	x	x	x	~	x	x	x	x	x	x	x	x	x	x	~	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x
+	2	x	x	x	x	x	x	x	x	x	x	x	~	x	x	x	x	x	x	x	x	x	x	~	x	~	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x
+Var. 15	1	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	~	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x
+	2	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	~	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	~	x	x	x	x	x	x	x	x	x	x	x	x
+Var. 16	1	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	~	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x
+	2	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	~	x	x	x	x	~	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x
+Var. 17	1	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	~	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x
+	2	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	~	x	x	x	x	~	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x
+Var. 18	1	x	x	x	x	x	x	x	x	x	x	x	~	x	x	x	x	x	x	x	x	x	x	~	x	~	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x
+	2	x	x	x	x	x	x	x	x	x	x	x	~	x	x	x	x	x	x	x	x	x	x	~	x	~	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x
+Var. 19	1	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	~	x	x	x	x	~	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x
+	2	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	~	x	x	x	x	~	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x
+Var. 20																																																																			
+Var. 21	1	x	x	x	x	x	x	x	x	x	x	x	~	x	x	x	x	x	x	x	x	x	x	~	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x
+	2	x	x	x	x	x	x	x	x	x	x	x	~	x	x	x	x	x	x	x	x	x	x	~	x	~	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x
+Var. 22	1	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	~	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x
+	2	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	~	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x
+Var. 23	1	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x
+	2	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	~	x	x	x	x	~	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x
+Var. 24	1	x	x	x	x	x	~	x	x	x	x	x	~	x	x	x	x	x	x	x	x	x	x	~	x	~	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x
+	2	x	x	x	x	x	~	x	x	x	x	x	~	x	x	x	x	x	x	x	x	x	x	~	x	~	x	x	~	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x
+Var. 25	1	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	~	x	x	x	x	~	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x
+	2	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	~	x	x	x	x	~	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x
+Var. 26	1	x	x	x	x	x	x	x	x	x	x	x	~	x	x	x	x	x	x	x	x	x	x	~	x	~	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x
+	2	x	x	x	x	x	x	x	x	x	x	x	~	x	x	x	x	x	x	x	x	x	x	~	x	~	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x
+Var. 27	1	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	~	x	x	x	x	~	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x
+	2	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	~	x	x	x	x	~	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x
+Var. 28	1	x	x	x	x	x	x	x	x	x	x	x	~	x	x	x	x	x	x	x	x	x	x	x	x	~	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x
+	2	x	x	x	x	x	x	x	x	x	x	x	~	x	x	x	x	x	x	x	x	x	x	~	x	~	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x
+Var. 29																																																																			
+Var. 30	1	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	~	x	~	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x
+Var. 31	1	x	x	x	x	x	x	x	x	x	x	x	~	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	~	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x
+	2	x	x	x	x	x	x	x	x	x	x	x	~	x	x	x	x	x	x	x	x	x	x	~	x	x	x	x	~	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x
+Var. 32																																																																			
+Var. 33	1	x	x	x	x	x	x	x	x	x	x	x	~	x	x	x	x	x	x	x		x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x
+	2	x	x	x	x	x	x	x	x	x	x	x	~	x	x	x	x	x	x	~		x	x	~	x	x	x	x	~	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x
+
+x	repeat not printed in score, but played																																																																		
+~	repeat printed in score, but not played																																																																		
+	Variation without repeat																																																																		
+
+
+
