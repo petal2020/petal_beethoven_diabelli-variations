@@ -19,7 +19,7 @@ In the tsv-files, abbreviations are used to designate different data content:
 
 "_dur": durations (theme and 33 variations; full durations);
 
-"_%val" : percentage of the theme and each variation of the full duration of the respective recording;
+"_%val" : percentage values of the theme and each variation of the full duration of the respective recording;
 
 "_tpo": initial tempo values.
 
