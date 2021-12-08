@@ -1,5 +1,5 @@
 # petal_beethoven_diabelli-variations
-data sets for performance analyses of Ludwig van Beethoven’s 'Diabelli-Variations' (1823)
+data sets for performance analyses of Ludwig van Beethoven’s 'Diabelli Variations' (1823)
 
 This repository introduces the data sets created during research on recorded performances of Ludwig van Beethoven’s 'Diabelli Variations' (1823). It complements the following article:
 
@@ -7,7 +7,7 @@ Glaser, Thomas. 2021. “Formgestaltung aus aufführungspraktischer Perspektive.
 
 **main content**
 
-The data discussed in Glaser 2021 refer to 66 different recordings of Beethoven's 'Diabelli-Variations' as detailed in the article's discography (https://storage.gmth.de/zgmth/media/1128/Glaser_Diabelli_Tab07.pdf).
+The data discussed in Glaser 2021 refer to 66 different recordings of Beethoven's 'Diabelli Variations' as detailed in the article's discography (https://storage.gmth.de/zgmth/media/1128/Glaser_Diabelli_Tab07.pdf).
 
 **(1) raw data (66 recordings)**
 
@@ -15,7 +15,7 @@ The Excel sheet Diabelli Variations_raw data_tpo-dur_66 rec contains duration me
 
 **(2) durations, percentage values, initial tempo values, repeats (66 recordings)**
 
-In the tsv-files, abbbreviations are used to designate different data content:
+In the tsv-files, abbreviations are used to designate different data content:
 
 "_dur": durations (theme and 33 variations; full durations);
 
@@ -23,4 +23,4 @@ In the tsv-files, abbbreviations are used to designate different data content:
 
 "_tpo": initial tempo values.
 
-Minimum and maximum values of each of the aforementioned data category are included in seperate files ("_min-max") as well as an overview of the repeats composed by Beethoven and the pianists's choices of these repeats ("_repeats"). Four recordings (Anda 1961, Lefébure 1975, Rangell 1977, Varsano 1980) with idiosyncratic readings of the score in terms of textual fidelity to the repeats are seperately included according to their "real" and "virtual" durations and percentage values (see Glaser 2021, Fig. 1 and 2).
+Minimum and maximum values of each of the aforementioned data category are included in separate files ("_min-max") as well as an overview of the repeats composed by Beethoven and the pianists's choices of these repeats ("_repeats"). Four recordings (Anda 1961, Lefébure 1975, Rangell 1977, Varsano 1980) with idiosyncratic readings of the score in terms of textual fidelity to the repeats are separately included according to their "real" and "virtual" durations and percentage values (see Glaser 2021, Fig. 1 and 2).
