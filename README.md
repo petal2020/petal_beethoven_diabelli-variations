@@ -11,7 +11,7 @@ The data discussed in Glaser 2021 refer to 66 different recordings of Beethoven'
 
 **(1) raw data (66 recordings)**
 
-The Excel sheet "Diabelli Variations_raw data_tpo-dur_66 rec" contains duration measurements and tempo values of 66 recordings in separate worksheets. For each pianist, there are two worksheets containing (1) the durations of the theme and the 33 variations as well as the total duration of a recording and (2) the initial tempi within formal units that range between 4 and 12 bars (see Glaser 2021, Tab. 3a).
+The Excel sheet "Diabelli Variations_raw data_tpo-dur_66 rec" (https://github.com/petal2020/petal_beethoven_diabelli-variations/blob/main/Diabelli%20Variations_raw%20data_tpo-dur_66%20rec.xlsx) contains duration measurements and tempo values of 66 recordings in separate worksheets. For each pianist, there are two worksheets containing (1) the durations of the theme and the 33 variations as well as the total duration of a recording and (2) the initial tempi within formal units that range between 4 and 12 bars (see Glaser 2021, Tab. 3a).
 
 **(2) durations, percentage values, initial tempo values, repeats (66 recordings)**
 
