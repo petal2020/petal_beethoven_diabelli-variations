@@ -15,7 +15,7 @@ The Excel sheet "Diabelli Variations_raw data_tpo-dur_66 rec" (https://github.co
 
 **(2) durations, percentage values, initial tempo values, repeats (66 recordings)**
 
-The tsv-files provide detailed data on each pianist and recording (file names designate different data content):
+The tsv-files provide detailed data on each pianist and recording (file names indicate specific data content):
 
 "_dur": absolute durations (theme and 33 variations; full durations);
 
