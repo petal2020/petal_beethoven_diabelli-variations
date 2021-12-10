@@ -15,12 +15,12 @@ The Excel sheet "Diabelli Variations_raw data_tpo-dur_66 rec" (https://github.co
 
 **(2) durations, percentage values, initial tempo values, repeats (66 recordings)**
 
-In the tsv-files, abbreviations are used to designate different data content:
+The tsv-files provide detailed data on each pianist and recording (file names designate different data content):
 
-"_dur": durations (theme and 33 variations; full durations);
+"_dur": absolute durations (theme and 33 variations; full durations);
 
 "_%val" : percentage values of the theme and each variation of the full duration of the respective recording;
 
 "_tpo": initial tempo values.
 
-Minimum and maximum values of each of the aforementioned data category are included in separate files ("_min-max") as well as an overview of the repeats composed by Beethoven and the pianists's choices of these repeats ("_repeats"). Four recordings (Anda 1961, Lefébure 1975, Rangell 1977, Varsano 1980) with idiosyncratic readings of the score in terms of textual fidelity to the repeats are separately included according to their "real" and "virtual" durations and percentage values (see Glaser 2021, Fig. 1 and 2).
+Minimum and maximum values of each of the aforementioned data category are included in separate files ("_min-max") as well as an overview of the repeats composed by Beethoven and the pianists's choices of these repeats ("_repeats"). Four recordings (Anda 1961, Lefébure 1975, Rangell 1977, Varsano 1980) with idiosyncratic readings of the score in terms of textual fidelity to the repeats are included according to their "real" and "virtual" durations and percentage values (see also Glaser 2021, Fig. 1 and 2).
